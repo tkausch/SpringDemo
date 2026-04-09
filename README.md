@@ -1,6 +1,6 @@
 # SpringDemo — REST API with Spring Boot
 
-A sample project showing how to build and publish a REST API with Spring Boot. My first Spring Boot app in 8 years — things have gotten a lot nicer!
+A sample project showing how to build and publish a REST API with Spring Boot. My first Spring Boot app in years — things have gotten a lot nicer!
 
 ## What this project covers
 
